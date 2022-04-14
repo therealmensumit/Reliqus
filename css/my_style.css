@@ -160,6 +160,10 @@ header nav ul li:last-child a {
 .banner .inner-text p span{
     display: block;
 }
+.typed-text{
+    color: #008DD7;
+    font-weight: 700;
+}
 .list .main .head{
     max-width: 880px;
     margin: auto;
